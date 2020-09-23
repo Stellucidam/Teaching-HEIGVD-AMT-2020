@@ -24,6 +24,10 @@
 
   * *Pour développer une application avec la Servlet API, il est nécessaire d'utiliser un serveur d'application Java EE (maintenant Jakarta EE). Donnez votre avis sur cette proposition et justifiez vos arguments.*
 
+  * *Ma réponse :* Je ne pense pas qu'il soit impératif d'avoir un serveur d'application **Java EE**. Les servlets sont conçus pour pouvoir être utilisés avec un serveur quel que soit son type.
+
+  * 
+
 * **Repos**
 
   * Here is the repo for the first Java EE demo: https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-AMT-Discovery
