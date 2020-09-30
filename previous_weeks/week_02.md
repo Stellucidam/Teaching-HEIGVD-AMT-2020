@@ -35,7 +35,6 @@ Définitions :
 ![Réponse](reponse_question_semaine_2.png)
 
 
-
 * **Notes about the YouTube Playlist:**
 
   * I have added 4 videos (see the links in the Project paragraph just above).
