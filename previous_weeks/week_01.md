@@ -26,7 +26,15 @@
 
   * *Ma réponse :* Je ne pense pas qu'il soit impératif d'avoir un serveur d'application **Java EE**. Les servlets sont conçus pour pouvoir être utilisés avec un serveur quel que soit son type.
 
-  * 
+  * *Correction :* 
+  Applications mt. Il existe plsr plates-formes pour développer des application de ce type.
+    * Servlet API :exemple de code
+    * Serveur d'application : exemple de serveurs
+    * Java EE : perspective historique, ensemble de spécifications
+    
+  Non, ce n'est pas une condition stricte. Un logiciel peut implémenter une partie des APIs spécifiées dans Java EE. Dans ce cas, il peut ne pas être certifié en tant que serveur d'application conforme à la norme cpmpléte. Au sens stricte, ce n'est pas un serveur d'application.
+  Tomcat est un exemple de serveur qui permet de déployer des servlets et des JSPs, mais qui n'est pas un serveur Java EE certifié.
+
 
 * **Repos**
 
