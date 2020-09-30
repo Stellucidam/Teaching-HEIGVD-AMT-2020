@@ -26,6 +26,16 @@
 
   * *Expliquez comment les Enterprise Java Beans (EJBs) permettent d'appliquer les principes de la programmation orientée aspects (AOP). Appuyez-vous sur un exemple de code et expliquez en détails ce qui se passe "derrière les décors" (i.e. expliquez ce que le serveur d'application fait).*
 
+Context : beaucoup de plate-formes s'appuient sur la notion de "composants managés" pour faciliter la vies des développeurs. Puisqu'elles contôlent le cycles de vie des composants, elles peuvent injecter des comportement dans différentes situations (sécu, gestion des transactions...)
+
+Définitions : 
+  * AOP : but -> séparation des préoccupations, code metier vs code technique, ex -> logging, sécu. Perspective historique ex de code sans AOP -> pd à résoudre
+  * EJB : spécification que fait partie de JavaEE, API qui permet de créer des composants managés par le serveurd'application
+
+![Réponse](reponse_question_semaine_2.png)
+
+
+
 * **Notes about the YouTube Playlist:**
 
   * I have added 4 videos (see the links in the Project paragraph just above).
